@@ -18,7 +18,7 @@ def comp(array1, array2):
 a1 = [121, 144, 19, 161,  19, 144, 19, 11 ]
 a2 = [11*11, 121*121, 144*144,19*19, 161*161, 19*19, 144*144, 19*19]
 
-
+print(comp(a1,a2))
 
 
 # 大佬鼠的迷惑方法
@@ -28,4 +28,3 @@ def comp1(array1, array2):
 	except:
 		return False
 
-print(comp1(a1,a2))
