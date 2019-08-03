@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PaginationHelper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maximum subarray sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moving Zeros To The End.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex Password Validation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/something.py" beforeDir="false" afterPath="$PROJECT_DIR$/something.py" afterDir="false" />
     </list>
@@ -58,8 +60,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PaginationHelper">
-    <configuration name="Bouncing Balls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.something">
+    <configuration name="Maximum subarray sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +74,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bouncing Balls.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maximum subarray sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Moving Zeros To The End" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Moving Zeros To The End.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,28 +149,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Watermelon" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Watermelon.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="something" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PaginationHelper" />
         <item itemvalue="Python.something" />
+        <item itemvalue="Python.Moving Zeros To The End" />
+        <item itemvalue="Python.Maximum subarray sum" />
+        <item itemvalue="Python.PaginationHelper" />
         <item itemvalue="Python.Rectangle into Squares" />
-        <item itemvalue="Python.Bouncing Balls" />
-        <item itemvalue="Python.Watermelon" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +192,8 @@
       <option name="presentableId" value="Default" />
       <updated>1564734062159</updated>
       <workItem from="1564734082779" duration="15627000" />
-      <workItem from="1564755872233" duration="7184000" />
+      <workItem from="1564755872233" duration="7515000" />
+      <workItem from="1564802382769" duration="9895000" />
     </task>
     <task id="LOCAL-00001" summary="continue">
       <created>1564738268012</created>
@@ -234,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564758972647</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="continue">
+      <created>1564763463892</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564763463892</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,10 +272,12 @@
     <SUITE FILE_PATH="coverage/codewars$Bouncing_Balls.coverage" NAME="Bouncing Balls Coverage Results" MODIFIED="1564750100446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Watermelon.coverage" NAME="Watermelon Coverage Results" MODIFIED="1564743883722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Rectangle_into_Squares.coverage" NAME="Rectangle into Squares Coverage Results" MODIFIED="1564757575518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1564759269487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1564819812234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Dubstep.coverage" NAME="Dubstep Coverage Results" MODIFIED="1564743033068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Find_the_next_perfect_square.coverage" NAME="Find the next perfect square Coverage Results" MODIFIED="1564734219024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Are_they_the_same.coverage" NAME="Are they the same Coverage Results" MODIFIED="1564741281142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Maximum_subarray_sum.coverage" NAME="Maximum subarray sum Coverage Results" MODIFIED="1564816390462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Moving_Zeros_To_The_End.coverage" NAME="Moving Zeros To The End Coverage Results" MODIFIED="1564818076763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Valid_Parentheses.coverage" NAME="Valid Parentheses Coverage Results" MODIFIED="1564734166357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$PaginationHelper.coverage" NAME="PaginationHelper Coverage Results" MODIFIED="1564762074033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
