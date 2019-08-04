@@ -1,81 +1,67 @@
-from random import randint
+"""return the solved puzzle as a 2d array of 9 x 9"""
+def nine(array):
+	num = []
+	nine_block = []
+	for x in (0, 3, 6):  # 每列3个格子
+		for y in (0, 3, 6):  # 每行3个格子
+			for i in range(x, x + 3):  # 每个格子
+				for j in range(y, y + 3):
+					num.append(array[i][j])
+			nine_block.append(num)
+			num = []
+	return nine_block
 
-
-def delete_zero_and_comp(array):
-	array = [x for x in array if x != 0]
-	if len(set(array)) != len(array):
-		return False
-
-def validSolution_isok(board):
-	"""检查未完成数组可行性"""
+def row_and_column(array):
+	row = []
+	column = []
 	for i in range(9):
 		# row
-		delete_zero_and_comp(board[i])
+		row.append(array[i])
 		# column
-		column = [board[j][i] for j in range(9)]
-		delete_zero_and_comp(column)
+		column.append([array[j][i] for j in range(9)])
+	return row,column
 
-	num = []
-	for x in range(0,3,6):  # 每列3个格子
-		for y in range(0,3,6):  # 每行3个格子
-			for i in range(x,x+3):  # 每个格子
-				for j in range(y,y+3):
-					num.append(board[i][j])
-			delete_zero_and_comp(num)
-
-	return True
-
-def validSolution(board):
+def num_set(array,nine_block):
+	pick_set = {}
+	row,column = row_and_column(array)
 	for i in range(9):
-		# row
-		if len(set(board[i])) != 9:
-			return False
-		# column
-		column = [board[j][i] for j in range(9)]
-		if len(set(column)) != 9:
-			return False
-	num = []
-	for x in range(0,3,6):  # 每列3个格子
-		for y in range(0,3,6):  # 每行3个格子
-			for i in range(x,x+3):  # 每个格子
-				for j in range(y,y+3):
-					num.append(board[i][j])
-			if len(set(num)) != 9:
-				return False
-	return True
-
-def num(row, collumn):
-	"""返回可填入的数字列表"""
-	return [x for x in range(1,10) if x not in row and x not in collumn]
+		for j in range(9):
+			if array[i][j] == 0:
+				pick_set[str(i) + str(j)] = set(range(10)) - \
+					(set(nine_block[3 * (i // 3) + j // 3]) | set(row[i]) | set(column[j]))
+	return pick_set
 
 def sudoku(puzzle):
-	"""return the solved puzzle as a 2d array of 9 x 9"""
-	row,column,old_puzzle = [],[],puzzle
-	for i in range(9):
-		row.append([puzzle[i][j] for j in range(9)])
-		column.append([puzzle[j][i] for j in range(9)])
+	step = [] # 记录填入的列值对，即在何处填入何值
 	while True:
-		puzzle = old_puzzle
-		for i in range(9):
-			for j in range(9):
-				board = num(row[i], column[j])
-				if len(board) == 0:
-					break
-				if len(board) != 0 and puzzle[i][j] == 0:
-					puzzle[i][j] = num(row[i],column[j]).pop(randint(0,len(board)-1))
-					row[i][j] = puzzle[i][j]
-					column[j][i] = puzzle[i][j]
-				if validSolution_isok(puzzle):
-					continue
-			else:
-				continue
+		pick_set = num_set(puzzle,nine(puzzle))
+		if len(pick_set) == 0:
 			break
-		if validSolution(puzzle) and len(board) == 0:
-			return puzzle
-	
+		pick_sort = sorted(pick_set.items(), key=lambda x: len(x[1])) # 按字典内的值的长度升序排序
+		item_min = pick_sort[0] # 获取第一队列值对
+		key = item_min[0] # 列
+		value = list(item_min[1]) # 值
+		step.append((key, value)) # 记录填入的列值对，即在何处填入何值
+		if len(value) == 0:
+			step.pop()  # 删除本次填数的记录
+			for i in range(len(step)):
+				last_one = step.pop()
+				last_key = last_one[0]
+				last_value = last_one[1]
+				if len(last_value) == 1:
+					puzzle[int(last_key[0]), int(last_key[1])] = 0
+				else:
+					puzzle[int(last_key[0]), int(last_key[1])] = last_value[1]
+					step.append((last_key, last_value[1:]))
+					break
+		else:
+			puzzle[int(key[0])][int(key[1])] = value[0]  # 填入数值
+	return puzzle
 
 
-puzzle = [[5,3,0,0,7,0,0,0,0],
+
+
+date = [[5,3,0,0,7,0,0,0,0],
           [6,0,0,1,9,5,0,0,0],
           [0,9,8,0,0,0,0,6,0],
           [8,0,0,0,6,0,0,0,3],
@@ -85,4 +71,4 @@ puzzle = [[5,3,0,0,7,0,0,0,0],
           [0,0,0,4,1,9,0,0,5],
           [0,0,0,0,8,0,0,7,9]]
 
-print(sudoku(puzzle))
+print(sudoku(date))
