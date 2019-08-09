@@ -1,7 +1,5 @@
 import time
 
-
-
 def count_change(money, coins):
 	ways = [1] + [0] * (money + 1)
 	for coin in coins:
