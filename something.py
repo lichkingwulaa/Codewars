@@ -1,38 +1,57 @@
-def delete_zero_and_comp(array):
-	array = [x for x in array if x != 0]
-	if len(set(array)) != len(array):
-		return False
+def check(first_array):
+	array = first_array
+	for i in range(7):
+		array[i] += ['0','0','0','0','0','0']
 
-def validSolution_isok(board):
-	for i in range(9):
-		# row
-		delete_zero_and_comp(board[i])
-		# column
-		column = [board[j][i] for j in range(9)]
-		delete_zero_and_comp(column)
+	# 行
+	for i in range(4):
+		for j in range(6):
+			if array[i][j] == array[i + 1][j] == array[i + 2][j] == array[i + 3][j] != '0':
+				return array[i][j]
 
-	num = []
-	for x in range(0,3,6):  # 每列3个格子
-		for y in range(0,3,6):  # 每行3个格子
-			for i in range(x,x+3):  # 每个格子
-				for j in range(y,y+3):
-					num.append(board[i][j])
-			delete_zero_and_comp(num)
+	# 列
+	for i in range(7):
+		for j in range(3):
+			if array[i][j] == array[i][j + 1] == array[i][j + 2] == array[i][j + 3] != '0':
+				return array[i][j]
 
-	return True
+	# 右斜
+	for i in range(4):
+		for j in range(3):
+			if array[i][j] == array[i + 1][j + 1] == array[i + 2][j + 2] == array[i + 3][j + 3] != '0':
+				return array[i][j]
+
+	# 左斜
+	for i in range(3, 7):
+		for j in range(3):
+			if array[i][j] == array[i - 1][j + 1] == array[i - 2][j + 2] == array[i - 3][j + 3] != '0':
+				return array[i][j]
+
+	return 'Draw'
+
+def who_is_winner(array):
+	print(array)
+	# 将数据填入数组
+	final_array = [[],[],[],[],[],[],[]]
+	for i in range(len(array)):
+		a_coclr = array[i].split('_')
+		num = ord(a_coclr[0]) - 65
+		final_array[num].append(a_coclr[1])
+
+		result = check(final_array[:])
+		if result in ['Yellow','Red']:
+			return result
+	
+	return 'Draw'
 
 
 
-# 测试用
-puzzle = [[5,3,0,0,7,0,0,0,0],
-          [6,0,0,1,9,5,0,0,0],
-          [0,9,8,0,0,0,0,6,0],
-          [8,0,0,0,6,0,0,0,3],
-          [4,0,0,8,0,3,0,0,1],
-          [7,0,0,0,2,0,0,0,6],
-          [0,6,0,0,0,0,2,8,0],
-          [0,0,0,4,1,9,0,0,5],
-          [0,0,0,0,8,0,0,7,9]]
 
-a = set(range(10)) | set(range(5)) | set(range(15))
+a = who_is_winner(
+	['C_Yellow', 'B_Red', 'B_Yellow', 'E_Red', 'D_Yellow', 'G_Red', 'B_Yellow', 'G_Red', 'E_Yellow', 'A_Red',
+	 'G_Yellow', 'C_Red', 'A_Yellow', 'A_Red', 'D_Yellow', 'B_Red', 'G_Yellow', 'A_Red', 'F_Yellow', 'B_Red',
+	 'D_Yellow', 'A_Red', 'F_Yellow', 'F_Red', 'B_Yellow', 'F_Red', 'F_Yellow', 'G_Red', 'A_Yellow', 'F_Red',
+	 'C_Yellow', 'C_Red', 'G_Yellow', 'C_Red', 'D_Yellow', 'D_Red', 'E_Yellow', 'D_Red', 'E_Yellow', 'C_Red',
+	 'E_Yellow', 'E_Red']
+                  )
 print(a)

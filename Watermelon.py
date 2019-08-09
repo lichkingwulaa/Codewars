@@ -11,5 +11,5 @@ def divide(weight):
 
 
 # 汪小佬
-def divide(weight):
+def divide1(weight):
 	return weight%2 == 0 and weight > 2
