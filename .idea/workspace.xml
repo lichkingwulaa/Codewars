@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="What's a Perfect Power anyway?">
-      <change afterPath="$PROJECT_DIR$/6_kyu_Consonant_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_kyu_Format_words_into_a_sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_kyu_IP_Validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_kyu_Multiples_of_3_or_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_kyu_Roman_Numerals_Decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_kyu_Roman_Numerals_Encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_kyu_Float_Precision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_kyu_Largest_5_digit_number_in_a_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_kyu_Refactored_Greeting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_kyu_Retrieve_array_value_by_index_with_default.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_kyu_Two_Oldest_Ages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_kyu_Basic_variable_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_kyu_Get_Planet_Name_By_ID.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_kyu_Return_to_Sanity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/something.py" beforeDir="false" afterPath="$PROJECT_DIR$/something.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/something_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/something_new.py" afterDir="false" />
@@ -68,6 +80,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\Python_work\codewars" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\Python_work\codewars" />
     </key>
@@ -97,20 +112,17 @@
       <option name="SUSPEND_AFTER_CONNECT" value="true" />
       <method v="2" />
     </configuration>
-    <configuration name="Counting Change Combinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_kyu_Refactored_Greeting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Counting Change Combinations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_kyu_Refactored_Greeting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,17 +241,17 @@
     <list>
       <item itemvalue="Python.something" />
       <item itemvalue="Python.a_practise" />
-      <item itemvalue="Python.Counting Change Combinations" />
       <item itemvalue="Python.Simplifying multilinear polynomials" />
       <item itemvalue="Python.something_new" />
+      <item itemvalue="Python.7_kyu_Refactored_Greeting" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.something_new" />
         <item itemvalue="Python.something" />
+        <item itemvalue="Python.7_kyu_Refactored_Greeting" />
         <item itemvalue="Python.a_practise" />
         <item itemvalue="Python.Simplifying multilinear polynomials" />
-        <item itemvalue="Python.Counting Change Combinations" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +278,8 @@
       <workItem from="1565421080091" duration="13010000" />
       <workItem from="1565435722074" duration="10929000" />
       <workItem from="1565507776210" duration="20253000" />
-      <workItem from="1565539371471" duration="702000" />
+      <workItem from="1565539371471" duration="8097000" />
+      <workItem from="1565593458639" duration="22405000" />
     </task>
     <task id="LOCAL-00001" summary="continue">
       <created>1564738268012</created>
@@ -429,7 +442,35 @@
       <option name="project" value="LOCAL" />
       <updated>1565534829839</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Consonant value">
+      <created>1565540120905</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1565540120905</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Stop gninnipS My sdroW！">
+      <created>1565541729756</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1565541729756</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Mexican Wave">
+      <created>1565543808396</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1565543808396</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Complete the table pattern">
+      <created>1565546853212</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1565546853212</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +515,11 @@
     <MESSAGE value="What's a Perfect Power anyway?" />
     <MESSAGE value="resistor color codes" />
     <MESSAGE value="best match" />
-    <option name="LAST_COMMIT_MESSAGE" value="best match" />
+    <MESSAGE value="Consonant value" />
+    <MESSAGE value="Stop gninnipS My sdroW！" />
+    <MESSAGE value="Mexican Wave" />
+    <MESSAGE value="Complete the table pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete the table pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -495,9 +540,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/codewars$something_copy.coverage" NAME="something_copy Coverage Results" MODIFIED="1564904167527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1565514969113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1565611997148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Rectangle_into_Squares.coverage" NAME="Rectangle into Squares Coverage Results" MODIFIED="1564757575518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1565533893031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1565616918210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$a_practise.coverage" NAME="a_practise Coverage Results" MODIFIED="1565432306648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Dubstep.coverage" NAME="Dubstep Coverage Results" MODIFIED="1564743033068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Simplifying_multilinear_polynomials.coverage" NAME="Simplifying multilinear polynomials Coverage Results" MODIFIED="1565431185389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
