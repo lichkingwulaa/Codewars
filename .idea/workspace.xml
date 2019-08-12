@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="What's a Perfect Power anyway?">
-      <change afterPath="$PROJECT_DIR$/6_kyu_Format_words_into_a_sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_kyu_IP_Validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_kyu_Multiples_of_3_or_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_kyu_Roman_Numerals_Decoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_kyu_Roman_Numerals_Encoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_kyu_Float_Precision.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_kyu_Largest_5_digit_number_in_a_series.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_kyu_Refactored_Greeting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_kyu_Retrieve_array_value_by_index_with_default.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_kyu_Two_Oldest_Ages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_kyu_Basic_variable_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_kyu_Get_Planet_Name_By_ID.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_kyu_Return_to_Sanity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something.py" beforeDir="false" afterPath="$PROJECT_DIR$/something.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/something_new.py" afterDir="false" />
-    </list>
+    <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,7 +262,7 @@
       <workItem from="1565435722074" duration="10929000" />
       <workItem from="1565507776210" duration="20253000" />
       <workItem from="1565539371471" duration="8097000" />
-      <workItem from="1565593458639" duration="22405000" />
+      <workItem from="1565593458639" duration="22652000" />
     </task>
     <task id="LOCAL-00001" summary="continue">
       <created>1564738268012</created>
@@ -470,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565546853212</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="up">
+      <created>1565618377483</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1565618377483</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +509,8 @@
     <MESSAGE value="Stop gninnipS My sdroW！" />
     <MESSAGE value="Mexican Wave" />
     <MESSAGE value="Complete the table pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete the table pattern" />
+    <MESSAGE value="up" />
+    <option name="LAST_COMMIT_MESSAGE" value="up" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
