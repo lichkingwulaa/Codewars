@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5_kyu_ROT13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_kyu_N-th_Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_kyu_Pascal's_Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_kyu_Flatten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_kyu_Create_Phone_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_kyu_Simple_Encryption#1-Alternating_Split.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regex Password Validation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/something.py" beforeDir="false" afterPath="$PROJECT_DIR$/something.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/something_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/something_new.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,10 +69,10 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\Python_work\codewars" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\Python_work\codewars" />
     </key>
   </component>
@@ -89,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7_kyu_Flatten">
+  <component name="RunManager" selected="Python.something_new">
     <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
       <option name="PORT" value="0" />
       <option name="HOST" value="localhost" />
@@ -106,6 +105,9 @@
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -237,9 +239,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7_kyu_Flatten" />
-        <item itemvalue="Python.something" />
         <item itemvalue="Python.something_new" />
+        <item itemvalue="Python.something" />
+        <item itemvalue="Python.7_kyu_Flatten" />
         <item itemvalue="Python.7_kyu_Refactored_Greeting" />
         <item itemvalue="Python.a_practise" />
       </list>
@@ -270,7 +272,10 @@
       <workItem from="1565507776210" duration="20253000" />
       <workItem from="1565539371471" duration="8097000" />
       <workItem from="1565593458639" duration="34849000" />
-      <workItem from="1565680064650" duration="24159000" />
+      <workItem from="1565680064650" duration="24305000" />
+      <workItem from="1565769238087" duration="11620000" />
+      <workItem from="1565833836540" duration="32812000" />
+      <workItem from="1565929608305" duration="12056000" />
     </task>
     <task id="LOCAL-00001" summary="continue">
       <created>1564738268012</created>
@@ -482,7 +487,49 @@
       <option name="project" value="LOCAL" />
       <updated>1565707343781</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="08/14/2019">
+      <created>1565721599590</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1565721599590</updated>
+    </task>
+    <task id="LOCAL-00032" summary="08/15/2019">
+      <created>1565798681417</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1565798681417</updated>
+    </task>
+    <task id="LOCAL-00033" summary="08/15/2019">
+      <created>1565800328684</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1565800328684</updated>
+    </task>
+    <task id="LOCAL-00034" summary="08/15/2019">
+      <created>1565869906960</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1565869906960</updated>
+    </task>
+    <task id="LOCAL-00035" summary="08/15/2019">
+      <created>1565877535407</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1565877535407</updated>
+    </task>
+    <task id="LOCAL-00036" summary="08/16/2019">
+      <created>1565886697136</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1565886697136</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,7 +580,10 @@
     <MESSAGE value="Complete the table pattern" />
     <MESSAGE value="up" />
     <MESSAGE value="08/13/2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="08/13/2019" />
+    <MESSAGE value="08/14/2019" />
+    <MESSAGE value="08/15/2019" />
+    <MESSAGE value="08/16/2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="08/16/2019" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -554,9 +604,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/codewars$something_copy.coverage" NAME="something_copy Coverage Results" MODIFIED="1564904167527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1565688488987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1565948383337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Rectangle_into_Squares.coverage" NAME="Rectangle into Squares Coverage Results" MODIFIED="1564757575518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1565720742868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1565948441576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$a_practise.coverage" NAME="a_practise Coverage Results" MODIFIED="1565432306648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Dubstep.coverage" NAME="Dubstep Coverage Results" MODIFIED="1564743033068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Simplifying_multilinear_polynomials.coverage" NAME="Simplifying multilinear polynomials Coverage Results" MODIFIED="1565431185389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
