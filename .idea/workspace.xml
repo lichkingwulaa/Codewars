@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4_kyu_Esolang_Interpreters_3_Custom_Paintfuck_Interpreter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_kyu_parseInt_reloaded.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_kyu_Esolang_Interpreters_2_Custom_Smallfuck_Interpreter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_kyu_Esolang_Interpreters_1_Introduction_to_Esolangs_and_My_First_Interpreter_MiniStringFuck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_kyu_Esolang_Interpreters_4_Boolfuck_Interpreter(failed).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_kyu_Find_the_unique_string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/something.py" beforeDir="false" afterPath="$PROJECT_DIR$/something.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/something_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/something_new.py" afterDir="false" />
@@ -71,10 +69,10 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\Python_work\codewars" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\Python_work\codewars" />
     </key>
   </component>
@@ -103,32 +101,13 @@
       <option name="SUSPEND_AFTER_CONNECT" value="true" />
       <method v="2" />
     </configuration>
-    <configuration name="4_kyu_Connect_Four" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4_kyu_parseInt_reloaded" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_kyu_Connect_Four.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4_kyu_parseInt_reloaded" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -210,6 +189,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="something" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="something_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,18 +229,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.something_new" />
-      <item itemvalue="Python.4_kyu_Connect_Four" />
       <item itemvalue="Python.Connect Four" />
       <item itemvalue="Python.6_kyu_What's_in_a_name" />
       <item itemvalue="Python.4_kyu_parseInt_reloaded" />
+      <item itemvalue="Python.something" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.something_new" />
+        <item itemvalue="Python.something" />
         <item itemvalue="Python.4_kyu_parseInt_reloaded" />
         <item itemvalue="Python.6_kyu_What's_in_a_name" />
         <item itemvalue="Python.Connect Four" />
-        <item itemvalue="Python.4_kyu_Connect_Four" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +276,9 @@
       <workItem from="1566103194189" duration="9968000" />
       <workItem from="1566191148977" duration="14191000" />
       <workItem from="1566300900284" duration="3198000" />
-      <workItem from="1566359768064" duration="26155000" />
+      <workItem from="1566359768064" duration="26473000" />
+      <workItem from="1566484964346" duration="1509000" />
+      <workItem from="1566561834605" duration="7803000" />
     </task>
     <task id="LOCAL-00001" summary="continue">
       <created>1564738268012</created>
@@ -560,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566303490057</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="08/21/2019">
+      <created>1566401873330</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1566401873330</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,7 +623,8 @@
     <MESSAGE value="08/16/2019" />
     <MESSAGE value="08/19/2019" />
     <MESSAGE value="08/20/2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="08/20/2019" />
+    <MESSAGE value="08/21/2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="08/21/2019" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -636,7 +644,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/codewars$something_copy.coverage" NAME="something_copy Coverage Results" MODIFIED="1564904167527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1566401365331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1566571539754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1566124780857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$a_practise.coverage" NAME="a_practise Coverage Results" MODIFIED="1565432306648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Simplifying_multilinear_polynomials.coverage" NAME="Simplifying multilinear polynomials Coverage Results" MODIFIED="1565431185389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
