@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4_kyu_The_fusc_function_Part_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_kyu_Bouncing_Balls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Rang_ Extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_kyu_Rang_Extraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/something_new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Are they the same.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_kyu_Are_they_the_same.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bouncing Balls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Directions Reduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_kyu_Directions_Reduction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dubstep.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dubstep.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.something_new">
+  <component name="RunManager" selected="Python.Dubstep">
     <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
       <option name="PORT" value="0" />
       <option name="HOST" value="localhost" />
@@ -100,7 +102,7 @@
       <option name="SUSPEND_AFTER_CONNECT" value="true" />
       <method v="2" />
     </configuration>
-    <configuration name="4_kyu_Count_Squares_In_the_Chess_Board(failed)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5_kyu_Directions_Reduction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +112,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_kyu_Count_Squares_In_the_Chess_Board(failed).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_kyu_Directions_Reduction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_kyu_The_fusc_function_Part_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Bouncing Balls" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +131,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_kyu_The_fusc_function_Part_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bouncing Balls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,20 +140,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_kyu_parseInt_reloaded" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Counting Change Combinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_kyu_parseInt_reloaded.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Counting Change Combinations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Directions Reduction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Directions Reduction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dubstep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dubstep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,58 +219,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="something" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="something_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something_new.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.something_new" />
-      <item itemvalue="Python.4_kyu_parseInt_reloaded" />
-      <item itemvalue="Python.something" />
-      <item itemvalue="Python.4_kyu_Count_Squares_In_the_Chess_Board(failed)" />
-      <item itemvalue="Python.4_kyu_The_fusc_function_Part_2" />
+      <item itemvalue="Python.Bouncing Balls" />
+      <item itemvalue="Python.Counting Change Combinations" />
+      <item itemvalue="Python.Directions Reduction" />
+      <item itemvalue="Python.5_kyu_Directions_Reduction" />
+      <item itemvalue="Python.Dubstep" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.something_new" />
-        <item itemvalue="Python.something" />
-        <item itemvalue="Python.4_kyu_The_fusc_function_Part_2" />
-        <item itemvalue="Python.4_kyu_Count_Squares_In_the_Chess_Board(failed)" />
-        <item itemvalue="Python.4_kyu_parseInt_reloaded" />
+        <item itemvalue="Python.Dubstep" />
+        <item itemvalue="Python.5_kyu_Directions_Reduction" />
+        <item itemvalue="Python.Directions Reduction" />
+        <item itemvalue="Python.Counting Change Combinations" />
+        <item itemvalue="Python.Bouncing Balls" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +272,7 @@
       <workItem from="1566484964346" duration="1509000" />
       <workItem from="1566561834605" duration="8528000" />
       <workItem from="1566642456093" duration="11098000" />
-      <workItem from="1566703194566" duration="30378000" />
+      <workItem from="1566703194566" duration="34799000" />
     </task>
     <task id="LOCAL-00001" summary="continue">
       <created>1564738268012</created>
@@ -583,7 +582,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566734197494</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="08/25/2019">
+      <created>1566741352407</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1566741352407</updated>
+    </task>
+    <task id="LOCAL-00046" summary="unknown">
+      <created>1566744008045</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1566744008045</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -643,20 +656,21 @@
     <MESSAGE value="08/22/2019" />
     <MESSAGE value="08/24/2019" />
     <MESSAGE value="08/25/2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="08/25/2019" />
+    <MESSAGE value="unknown" />
+    <option name="LAST_COMMIT_MESSAGE" value="unknown" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Directions Reduction.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/4_kyu_Find_the_unknown_digit.py</url>
           <line>3</line>
           <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5_kyu_Directions_Reduction.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -666,6 +680,7 @@
     <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1566727419078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1566738896796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$a_practise.coverage" NAME="a_practise Coverage Results" MODIFIED="1565432306648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$5_kyu_Directions_Reduction.coverage" NAME="5_kyu_Directions_Reduction Coverage Results" MODIFIED="1566745030586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Simplifying_multilinear_polynomials.coverage" NAME="Simplifying multilinear polynomials Coverage Results" MODIFIED="1565431185389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Are_they_the_same.coverage" NAME="Are they the same Coverage Results" MODIFIED="1564741281142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$something_new2.coverage" NAME="something_new2 Coverage Results" MODIFIED="1566120533640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -674,7 +689,7 @@
     <SUITE FILE_PATH="coverage/codewars$Find_the_next_perfect_square.coverage" NAME="Find the next perfect square Coverage Results" MODIFIED="1564734219024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$PaginationHelper.coverage" NAME="PaginationHelper Coverage Results" MODIFIED="1564762074033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Rectangle_into_Squares.coverage" NAME="Rectangle into Squares Coverage Results" MODIFIED="1564757575518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Dubstep.coverage" NAME="Dubstep Coverage Results" MODIFIED="1564743033068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Dubstep.coverage" NAME="Dubstep Coverage Results" MODIFIED="1566745544134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$4_kyu_Find_the_unknown_digit.coverage" NAME="4_kyu_Find_the_unknown_digit Coverage Results" MODIFIED="1566209966313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$4_kyu_parseInt_reloaded.coverage" NAME="4_kyu_parseInt_reloaded Coverage Results" MODIFIED="1566401002648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$something_practise.coverage" NAME="something_practise Coverage Results" MODIFIED="1564907198968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

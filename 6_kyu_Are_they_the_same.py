@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/are-they-the-same/python
+"""
 def comp(array1, array2):
 	if array1 is None or array2 is None:
 		return False
@@ -27,4 +30,10 @@ def comp1(array1, array2):
 		return sorted([i ** 2 for i in array1]) == sorted(array2)
 	except:
 		return False
+
+
+# 汪小佬 2019.08.25
+def comp(array1, array2):
+	return False if None in [array1, array2] else [x ** 2 for x in sorted(array1)] == sorted(array2)
+
 
