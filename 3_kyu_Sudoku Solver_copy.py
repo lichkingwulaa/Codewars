@@ -1,12 +1,15 @@
+"""
 # 作者：Deshun_Deng
 # 来源：CSDN
 # 原文：https://blog.csdn.net/weixin_42147487/article/details/80214185
 # 版权声明：本文为博主原创文章，转载请附上博文链接！
+"""
 
 import numpy as np
 import time
 
 time1 = time.time()
+
 '''
     整体灵感就是
     1 求出每个数字为0的位置可以填的数，并将其位置和能填的数分别以key和value的方式
@@ -19,15 +22,12 @@ time1 = time.time()
     5 当所有的数都填完后，退出循环
 '''
 
-
 def nine(data):
 	nine_block = np.zeros([3, 3, 3, 3], dtype=int)
-	
 	for i in range(3):
 		for j in range(3):
 			nine_block[i, j] = data[3 * i:3 * (i + 1), 3 * j:3 * (j + 1)]
 	return nine_block
-
 
 def num_set(data, nine_block):
 	pick_set = {}
@@ -39,11 +39,9 @@ def num_set(data, nine_block):
 				                             set(nine_block[i // 3, j // 3].ravel()))
 	return pick_set
 
-
 def try_insert(data):
 	insert_step = []
 	while True:
-		
 		pick_set = num_set(data, nine(data))
 		if len(pick_set) == 0: break
 		pick_sort = sorted(pick_set.items(), key=lambda x: len(x[1]))
@@ -69,17 +67,16 @@ def try_insert(data):
 	print('\nFinished! using time:', tiem2 - time1, 's')
 	print(data)
 
-
 if __name__ == '__main__':
-	data = "0 0 0 0 0 0 0 6 0 \
-             0 0 0 0 0 4 7 0 5 \
-             5 0 0 0 0 0 1 0 4 \
-             1 0 0 0 0 2 4 0 0 \
-             0 0 8 0 7 0 0 0 0 \
-             0 3 0 6 0 0 0 0 0 \
-             2 0 0 0 0 9 0 0 1 \
-             0 0 6 0 8 0 0 0 0 \
-             0 7 0 3 0 0 0 0 0 "
-	data = np.array(data.split(), dtype=int).reshape((9, 9))
+	data = [[5, 3, 0, 0, 7, 0, 0, 0, 0],
+	        [6, 0, 0, 1, 9, 5, 0, 0, 0],
+	        [0, 9, 8, 0, 0, 0, 0, 6, 0],
+	        [8, 0, 0, 0, 6, 0, 0, 0, 3],
+	        [4, 0, 0, 8, 0, 3, 0, 0, 1],
+	        [7, 0, 0, 0, 2, 0, 0, 0, 6],
+	        [0, 6, 0, 0, 0, 0, 2, 8, 0],
+	        [0, 0, 0, 4, 1, 9, 0, 0, 5],
+	        [0, 0, 0, 0, 8, 0, 0, 7, 9]]
+	data = np.array(data)
 	print(data)
 	try_insert(data)

@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4_kyu_Simplifying_multilinear_polynomials.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_kyu_Reverse_or_rotate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_kyu_Regex_Password_Validation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simplifying multilinear polynomials.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simplifying multilinear polynomials.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Valid Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_kyu_Valid_Parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Watermelon.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/What's a Perfect Power anyway.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_kyu_What's_a_Perfect_Power_anyway.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something.py" beforeDir="false" afterPath="$PROJECT_DIR$/something.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/something_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/something_new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Simplifying_multilinear_polynomials.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_kyu_Simplifying_multilinear_polynomials(unknown).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regex Password Validation(failed).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simplifying multilinear polynomials.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sudoku Solution Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_kyu_Sudoku_Solution_Validator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sudoku Solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_kyu_Sudoku_Solver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sudoku Solver_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_kyu_Sudoku Solver_copy.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.something">
+  <component name="RunManager" selected="Python.Sudoku Solver">
     <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
       <option name="PORT" value="0" />
       <option name="HOST" value="localhost" />
@@ -105,20 +104,17 @@
       <option name="SUSPEND_AFTER_CONNECT" value="true" />
       <method v="2" />
     </configuration>
-    <configuration name="Simplifying multilinear polynomials" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_kyu_Sudoku_Solver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simplifying multilinear polynomials.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_kyu_Sudoku_Solver.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,20 +123,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Valid Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Sudoku Solution Validator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Valid Parentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sudoku Solution Validator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,20 +142,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="What's a Perfect Power anyway" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Sudoku Solver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/What's a Perfect Power anyway.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sudoku Solver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sudoku Solver_copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sudoku Solver_copy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,39 +221,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="something_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something_new.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.What's a Perfect Power anyway" />
-      <item itemvalue="Python.Valid Parentheses" />
-      <item itemvalue="Python.Simplifying multilinear polynomials" />
       <item itemvalue="Python.something" />
-      <item itemvalue="Python.something_new" />
+      <item itemvalue="Python.Sudoku Solution Validator" />
+      <item itemvalue="Python.3_kyu_Sudoku_Solver" />
+      <item itemvalue="Python.Sudoku Solver" />
+      <item itemvalue="Python.Sudoku Solver_copy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sudoku Solver" />
+        <item itemvalue="Python.3_kyu_Sudoku_Solver" />
+        <item itemvalue="Python.Sudoku Solver_copy" />
         <item itemvalue="Python.something" />
-        <item itemvalue="Python.something_new" />
-        <item itemvalue="Python.Simplifying multilinear polynomials" />
-        <item itemvalue="Python.Valid Parentheses" />
-        <item itemvalue="Python.What's a Perfect Power anyway" />
+        <item itemvalue="Python.Sudoku Solution Validator" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +277,7 @@
       <workItem from="1566703194566" duration="35187000" />
       <workItem from="1566786901923" duration="6471000" />
       <workItem from="1566974059032" duration="102000" />
-      <workItem from="1566974438719" duration="2023000" />
+      <workItem from="1566974438719" duration="8646000" />
     </task>
     <task id="LOCAL-00001" summary="continue">
       <created>1564738268012</created>
@@ -618,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566745759153</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="08/28/2019">
+      <created>1566976613424</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1566976613424</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -679,7 +676,8 @@
     <MESSAGE value="08/24/2019" />
     <MESSAGE value="unknown" />
     <MESSAGE value="08/25/2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="08/25/2019" />
+    <MESSAGE value="08/28/2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="08/28/2019" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -693,21 +691,6 @@
           <url>file://$PROJECT_DIR$/5_kyu_Directions_Reduction.py</url>
           <line>29</line>
           <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Simplifying multilinear polynomials.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Simplifying multilinear polynomials.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/something.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="103" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -734,7 +717,7 @@
     <SUITE FILE_PATH="coverage/codewars$Connect_Four.coverage" NAME="Connect Four Coverage Results" MODIFIED="1566215061683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Bouncing_Balls.coverage" NAME="Bouncing Balls Coverage Results" MODIFIED="1564750100446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Sudoku_Solution_Validator.coverage" NAME="Sudoku Solution Validator Coverage Results" MODIFIED="1564844259444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Sudoku_Solver.coverage" NAME="Sudoku Solver Coverage Results" MODIFIED="1564908273377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Sudoku_Solver.coverage" NAME="Sudoku Solver Coverage Results" MODIFIED="1566984897361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Directions_Reduction.coverage" NAME="Directions Reduction Coverage Results" MODIFIED="1564833364749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Maximum_subarray_sum.coverage" NAME="Maximum subarray sum Coverage Results" MODIFIED="1564816390462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Last_digit_of_a_large_number.coverage" NAME="Last digit of a large number Coverage Results" MODIFIED="1564840717188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

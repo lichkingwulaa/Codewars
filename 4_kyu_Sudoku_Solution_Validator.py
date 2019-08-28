@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/sudoku-solution-validator/python
+"""
 def validSolution(board):
 	for i in range(9):
 		# row
@@ -19,7 +22,7 @@ def validSolution(board):
 
 	return True
 
-a = validSolution(
+value = validSolution(
  [[5,3,4,6,7,8,9,1,2],
   [6,7,2,1,9,5,3,4,8],
   [1,9,8,3,4,2,5,6,7],
@@ -29,8 +32,25 @@ a = validSolution(
   [9,6,1,5,3,7,2,8,4],
   [2,8,7,4,1,9,6,3,5],
   [3,4,5,2,8,6,1,7,9]])
-print(a)
+print(value)
 
 
-# 行row
-# 列column
+
+# 汪小佬
+import numpy as np
+def validSolution1(board):
+	board = np.array(board)
+	for i in range(9):
+		if len(set(board[i])) != 9 or len(set(board.T[i])) != 9:
+			return False
+	for i in range(0, 7, 3):
+		for j in range(0, 7, 3):
+			if board[i:i + 3, j:j + 3].sum() != 45:
+				return False
+	return True
+
+
+# 大佬鼠
+def validSolution2(board):
+	blocks = [[board[x+a][y+b] for a in (0, 1, 2) for b in (0, 1, 2)] for x in (0, 3, 6) for y in (0, 3, 6)]
+	return not filter(lambda x: set(x) != set(range(1, 10)), board + zip(*board) + blocks)
