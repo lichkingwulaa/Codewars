@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/find-the-unknown-digit/solutions/python
+"""
 def solve_runes(runes):
 	num_pick = [i for i in range(10) if str(i) not in runes]
 	runes = runes.replace('--', '+').replace('+-', '-').replace('=', '==')
@@ -17,7 +20,6 @@ print(solve_runes('??*1=??'))
 
 # 大佬鼠
 import re
-
 def solve_runes1(runes):
 	for d in sorted(set("0123456789") - set(runes)):
 		toTest = runes.replace("?",d)

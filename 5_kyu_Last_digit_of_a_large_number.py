@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/last-digit-of-a-large-number/python
+"""
 def last_digit(n1, n2):
 	if int(list(str(n2 % 4))[-1]) == 0 and n2 != 0:
 		return int(list(str(n1 ** 4))[-1])
@@ -14,3 +17,7 @@ def last_digit1(n1,n2):
 # 大佬鼠的迷惑方法
 def last_digit2(n1, n2):
 	return (n1 % 10) ** (n2 % 4 + 4 * bool(n2)) % 10
+
+def last_digit3(n1, n2):
+	return pow(n1, n2, 10)
+

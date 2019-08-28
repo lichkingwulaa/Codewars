@@ -1,6 +1,11 @@
-# 确定平方数
-from time import process_time
+"""
+https://www.codewars.com/kata/find-the-next-perfect-square/train/python
+"""
+def find_next_square(sq):
+	return (int(sq ** 0.5) + 1)** 2 if int(sq ** 0.5) ** 2 == sq else -1
 
+
+# 确定是否是平方数
 def is_square(n):
 	"""牛顿迭代法确定平方数"""
 	x = n*0.01
@@ -10,10 +15,6 @@ def is_square(n):
 		return True
 	else:
 		return False
-process_time()
-num = input('number:')
-print(is_square(int(num)))
-print("程序运行时间是:%-5.5ss" % process_time())
 
 
 # 大佬鼠的迷惑方法

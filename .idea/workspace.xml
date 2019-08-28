@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5_kyu_Regex_Password_Validation.py" afterDir="false" />
+    <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="08/28/2019">
+      <change afterPath="$PROJECT_DIR$/6_kyu_Exclamation_marks_series_15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Simplifying_multilinear_polynomials.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_kyu_Simplifying_multilinear_polynomials(unknown).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regex Password Validation(failed).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simplifying multilinear polynomials.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sudoku Solution Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_kyu_Sudoku_Solution_Validator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sudoku Solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_kyu_Sudoku_Solver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sudoku Solver_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_kyu_Sudoku Solver_copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Find_the_unknown_digit.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_kyu_Find_the_unknown_digit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find the next perfect square.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_kyu_Find_the_next_perfect_square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find the unknown digit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hamming Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_kyu_Hamming_Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last digit of a large number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Last digit of a large number.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sudoku Solver">
+  <component name="RunManager" selected="Python.Find the unknown digit">
     <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
       <option name="PORT" value="0" />
       <option name="HOST" value="localhost" />
@@ -123,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sudoku Solution Validator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Find the unknown digit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +132,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sudoku Solution Validator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Find the unknown digit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,25 +152,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sudoku Solver.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Sudoku Solver_copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sudoku Solver_copy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,20 +201,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="something_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.something" />
-      <item itemvalue="Python.Sudoku Solution Validator" />
       <item itemvalue="Python.3_kyu_Sudoku_Solver" />
       <item itemvalue="Python.Sudoku Solver" />
-      <item itemvalue="Python.Sudoku Solver_copy" />
+      <item itemvalue="Python.something_new" />
+      <item itemvalue="Python.Find the unknown digit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Find the unknown digit" />
+        <item itemvalue="Python.something_new" />
+        <item itemvalue="Python.something" />
         <item itemvalue="Python.Sudoku Solver" />
         <item itemvalue="Python.3_kyu_Sudoku_Solver" />
-        <item itemvalue="Python.Sudoku Solver_copy" />
-        <item itemvalue="Python.something" />
-        <item itemvalue="Python.Sudoku Solution Validator" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +276,7 @@
       <workItem from="1566703194566" duration="35187000" />
       <workItem from="1566786901923" duration="6471000" />
       <workItem from="1566974059032" duration="102000" />
-      <workItem from="1566974438719" duration="8646000" />
+      <workItem from="1566974438719" duration="16013000" />
     </task>
     <task id="LOCAL-00001" summary="continue">
       <created>1564738268012</created>
@@ -615,7 +614,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566976613424</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="08/28/2019">
+      <created>1566985868526</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1566985868526</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -683,11 +689,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/4_kyu_Find_the_unknown_digit.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/5_kyu_Directions_Reduction.py</url>
           <line>29</line>
           <option name="timeStamp" value="98" />
@@ -697,10 +698,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/codewars$something_copy.coverage" NAME="something_copy Coverage Results" MODIFIED="1564904167527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1566727419078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1566989421439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$What_s_a_Perfect_Power_anyway.coverage" NAME="What's a Perfect Power anyway Coverage Results" MODIFIED="1566787782254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1566976407041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1566986198557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$a_practise.coverage" NAME="a_practise Coverage Results" MODIFIED="1565432306648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Find_the_unknown_digit.coverage" NAME="Find the unknown digit Coverage Results" MODIFIED="1566995838511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$5_kyu_Directions_Reduction.coverage" NAME="5_kyu_Directions_Reduction Coverage Results" MODIFIED="1566745030586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Simplifying_multilinear_polynomials.coverage" NAME="Simplifying multilinear polynomials Coverage Results" MODIFIED="1566790797953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Are_they_the_same.coverage" NAME="Are they the same Coverage Results" MODIFIED="1564741281142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

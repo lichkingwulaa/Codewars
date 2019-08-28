@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/hamming-numbers/train/python
+"""
 def hamming(n):
 	"""Returns the nth hamming number"""
 	k1, k2, k3 = 0, 0, 0
