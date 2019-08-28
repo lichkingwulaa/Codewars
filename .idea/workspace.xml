@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="08/28/2019">
-      <change afterPath="$PROJECT_DIR$/6_kyu_Exclamation_marks_series_15.py" afterDir="false" />
+    <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Find_the_unknown_digit.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_kyu_Find_the_unknown_digit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find the next perfect square.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_kyu_Find_the_next_perfect_square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find the unknown digit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hamming Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_kyu_Hamming_Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last digit of a large number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Last digit of a large number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maximum subarray sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_kyu_Maximum_subarray_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moving Zeros To The End.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_kyu_Moving_Zeros_To_The_End.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Find the unknown digit">
+  <component name="RunManager" selected="Python.Moving Zeros To The End">
     <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
       <option name="PORT" value="0" />
       <option name="HOST" value="localhost" />
@@ -101,25 +97,6 @@
       </PathMappingSettings>
       <option name="REDIRECT_OUTPUT" value="true" />
       <option name="SUSPEND_AFTER_CONNECT" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3_kyu_Sudoku_Solver" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_kyu_Sudoku_Solver.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Find the unknown digit" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -141,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sudoku Solver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Maximum subarray sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +128,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sudoku Solver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maximum subarray sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Moving Zeros To The End" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Moving Zeros To The End.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,18 +218,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.something" />
-      <item itemvalue="Python.3_kyu_Sudoku_Solver" />
-      <item itemvalue="Python.Sudoku Solver" />
       <item itemvalue="Python.something_new" />
       <item itemvalue="Python.Find the unknown digit" />
+      <item itemvalue="Python.Maximum subarray sum" />
+      <item itemvalue="Python.Moving Zeros To The End" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Moving Zeros To The End" />
+        <item itemvalue="Python.Maximum subarray sum" />
         <item itemvalue="Python.Find the unknown digit" />
         <item itemvalue="Python.something_new" />
         <item itemvalue="Python.something" />
-        <item itemvalue="Python.Sudoku Solver" />
-        <item itemvalue="Python.3_kyu_Sudoku_Solver" />
       </list>
     </recent_temporary>
   </component>
@@ -276,14 +272,7 @@
       <workItem from="1566703194566" duration="35187000" />
       <workItem from="1566786901923" duration="6471000" />
       <workItem from="1566974059032" duration="102000" />
-      <workItem from="1566974438719" duration="16013000" />
-    </task>
-    <task id="LOCAL-00001" summary="continue">
-      <created>1564738268012</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1564738268012</updated>
+      <workItem from="1566974438719" duration="17244000" />
     </task>
     <task id="LOCAL-00002" summary="continue">
       <created>1564741298977</created>
@@ -621,7 +610,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566985868526</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="08/28/2019">
+      <created>1566997112299</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1566997112300</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

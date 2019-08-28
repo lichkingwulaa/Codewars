@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/maximum-subarray-sum/train/python
+"""
 def maxSequence(arr):
 	num = [0]
 	for i in range(len(arr)):

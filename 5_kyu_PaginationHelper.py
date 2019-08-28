@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/paginationhelper/train/python
+"""
 class PaginationHelper:
 	"""分页管理助手"""
 	# The constructor takes in an array of items and a integer indicating
