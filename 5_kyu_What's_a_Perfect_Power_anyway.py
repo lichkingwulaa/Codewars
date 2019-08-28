@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/whats-a-perfect-power-anyway/train/python
+"""
 from math import log
 # 返回多对值
 def isPP(n):
@@ -20,25 +23,22 @@ def isPP(n):
 	else:
 		return result
 
-
 print(isPP(121))
 
+
+# 大佬鼠
 # 返回一对值
 from math import *
-def isPP(n):
+def isPP1(n):
 	for m in range(2, round(sqrt(n) + 2)):
 		for k in range(2, round(log(n, m)) + 2):
 			if m ** k == n:
 				return [m, k]
 	return None
-"""
-1 ->1 1 1 1
-2 ->2 4 8 6
-3 ->3 9 7 1
-4 ->4 6
-5 ->5
-6 ->6
-7 ->7 9 3 1
-8 ->8 4 2 6
-9 ->9 1
-"""
+
+
+# 汪小佬
+def isPP2(n):
+	for k in range(2, n):
+		if round(n ** (1 / k)) ** k == n:
+			return [round(n ** (1 / k)), k]

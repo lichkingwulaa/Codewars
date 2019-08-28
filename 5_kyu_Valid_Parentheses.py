@@ -1,4 +1,6 @@
-# 有效的括号
+"""
+https://www.codewars.com/kata/valid-parentheses/train/python
+"""
 def valid_parentheses(string):
 	string = list(string)
 	if len(string) == 0:
@@ -38,4 +40,4 @@ def valid_parentheses(string):
 		if char == '(': cnt += 1
 		if char == ')': cnt -= 1
 		if cnt < 0: return False
-	return True if cnt == 0 else False
+	return cnt == 0
