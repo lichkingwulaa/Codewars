@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/growth-of-a-population/solutions/python
+"""
 def nb_year(p0, percent, aug, p):
 	i = 0
 	while p0 < p:

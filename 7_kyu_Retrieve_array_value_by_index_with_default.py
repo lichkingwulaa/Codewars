@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/retrieve-array-value-by-index-with-default/train/python
+"""
 def solution(items, index, default_value):
 	try:
 		return items[index]

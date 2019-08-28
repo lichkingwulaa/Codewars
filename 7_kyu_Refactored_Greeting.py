@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/refactored-greeting/solutions/python
+"""
 class Person:
 	def __init__(self, name):
 		self.name = name

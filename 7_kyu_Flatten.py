@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/flatten-1/train/python
+"""
 def flatten(lst):   # 只展开一次
 	res = []
 	for x in lst:
@@ -7,6 +10,9 @@ def flatten(lst):   # 只展开一次
 
 print(flatten([1 ,[3, 4, 5], [[9, 9, 9]], ["a,b,c"]]))
 
+
+def flatten(lst):
+	return sum(([i] if not isinstance(i, list) else i for i in lst), [])
 
 def flatten1(lst):  # 全部展开，变成一维数组
 	res = []

@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/float-precision/solutions/python
+"""
 def solution(n):
 	return eval("%.2f"% n)
 

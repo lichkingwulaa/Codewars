@@ -3,8 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maximum subarray sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_kyu_Maximum_subarray_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moving Zeros To The End.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_kyu_Moving_Zeros_To_The_End.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Find_the_divisors.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_kyu_Find_the_divisors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Flatten.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_kyu_Flatten.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Float_Precision.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_kyu_Float_Precision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Growth_of_a_Population.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_kyu_Growth_of_a_Population.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Largest_5_digit_number_in_a_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_kyu_Largest_5_digit_number_in_a_series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Refactored_Greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_kyu_Refactored_Greeting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Resistor_Color_Codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_kyu_Resistor_Color_Codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Retrieve_array_value_by_index_with_default.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_kyu_Retrieve_array_value_by_index_with_default.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Two_Oldest_Ages.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_kyu_Two_Oldest_Ages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_kyu_Basic_variable_assignment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_kyu_Get_Planet_Name_By_ID.py" beforeDir="false" afterPath="$PROJECT_DIR$/8_kyu_Get_Planet_Name_By_ID.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_kyu_Return_to_Sanity.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Moving Zeros To The End">
+  <component name="RunManager" selected="Python.7_kyu_Flatten">
     <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
       <option name="PORT" value="0" />
       <option name="HOST" value="localhost" />
@@ -99,7 +109,7 @@
       <option name="SUSPEND_AFTER_CONNECT" value="true" />
       <method v="2" />
     </configuration>
-    <configuration name="Find the unknown digit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_kyu_Flatten" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +119,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Find the unknown digit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_kyu_Flatten.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7_kyu_Two_Oldest_Ages" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_kyu_Two_Oldest_Ages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,39 +226,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="something_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/something_new.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.something" />
-      <item itemvalue="Python.something_new" />
-      <item itemvalue="Python.Find the unknown digit" />
       <item itemvalue="Python.Maximum subarray sum" />
       <item itemvalue="Python.Moving Zeros To The End" />
+      <item itemvalue="Python.7_kyu_Two_Oldest_Ages" />
+      <item itemvalue="Python.something" />
+      <item itemvalue="Python.7_kyu_Flatten" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7_kyu_Flatten" />
+        <item itemvalue="Python.something" />
+        <item itemvalue="Python.7_kyu_Two_Oldest_Ages" />
         <item itemvalue="Python.Moving Zeros To The End" />
         <item itemvalue="Python.Maximum subarray sum" />
-        <item itemvalue="Python.Find the unknown digit" />
-        <item itemvalue="Python.something_new" />
-        <item itemvalue="Python.something" />
       </list>
     </recent_temporary>
   </component>
@@ -272,14 +282,7 @@
       <workItem from="1566703194566" duration="35187000" />
       <workItem from="1566786901923" duration="6471000" />
       <workItem from="1566974059032" duration="102000" />
-      <workItem from="1566974438719" duration="17244000" />
-    </task>
-    <task id="LOCAL-00002" summary="continue">
-      <created>1564741298977</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1564741298977</updated>
+      <workItem from="1566974438719" duration="21263000" />
     </task>
     <task id="LOCAL-00003" summary="continue">
       <created>1564741466291</created>
@@ -617,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566997112300</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="08/28/2019">
+      <created>1566998293233</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1566998293233</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -696,7 +706,7 @@
     <SUITE FILE_PATH="coverage/codewars$something_copy.coverage" NAME="something_copy Coverage Results" MODIFIED="1564904167527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1566989421439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$What_s_a_Perfect_Power_anyway.coverage" NAME="What's a Perfect Power anyway Coverage Results" MODIFIED="1566787782254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1566986198557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1567001252066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$a_practise.coverage" NAME="a_practise Coverage Results" MODIFIED="1565432306648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Find_the_unknown_digit.coverage" NAME="Find the unknown digit Coverage Results" MODIFIED="1566995838511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$5_kyu_Directions_Reduction.coverage" NAME="5_kyu_Directions_Reduction Coverage Results" MODIFIED="1566745030586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

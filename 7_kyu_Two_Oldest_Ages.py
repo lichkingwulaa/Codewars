@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/two-oldest-ages-1/train/python
+"""
 def two_oldest_ages(ages):
 	a = max(ages)
 	ages.remove(a)
