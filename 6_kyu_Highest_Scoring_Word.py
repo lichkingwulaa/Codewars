@@ -14,3 +14,8 @@ def high(x):
 print(high('man i need a taxi up to ubud'), 'taxi')
 print(high('what time are we climbing up the volcano'), 'volcano')
 print(high('take me to semynak'), 'semynak')
+
+
+# 大佬鼠
+def high1(x):
+	return max(x.split(), key=lambda k: sum(ord(c) - 96 for c in k))
