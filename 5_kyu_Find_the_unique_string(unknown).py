@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/find-the-unique-string
+"""
 from collections import defaultdict
 
 
