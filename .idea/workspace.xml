@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6_kyu_Meeting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_kyu_Faro_Shuffle_Count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_kyu_Vasya_and_Stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/practise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Primorial_Of_a_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_kyu_Primorial_Of_a_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_n-th_reversible_prime(unfnished).py" beforeDir="false" afterPath="$PROJECT_DIR$/6_kyu_n-th_reversible_prime(unfnished).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,10 +71,10 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\Python_work\codewars" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\Python_work\codewars" />
     </key>
   </component>
@@ -86,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.practise">
+  <component name="RunManager" selected="Python.practice">
     <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
       <option name="PORT" value="0" />
       <option name="HOST" value="localhost" />
@@ -99,7 +103,7 @@
       <option name="SUSPEND_AFTER_CONNECT" value="true" />
       <method v="2" />
     </configuration>
-    <configuration name="5_kyu_Josephus_Survivor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6_kyu_Faro_Shuffle_Count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,26 +113,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_kyu_Josephus_Survivor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6_kyu_Find_X_Ⅱ" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_kyu_Find_X_Ⅱ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_kyu_Faro_Shuffle_Count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_kyu_Two_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6_kyu_n-th_reversible_prime(unfnished)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +151,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_kyu_Two_Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_kyu_n-th_reversible_prime(unfnished).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,7 +192,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/copy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,19 +221,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5_kyu_Josephus_Survivor" />
-      <item itemvalue="Python.6_kyu_Two_Sum" />
       <item itemvalue="Python.6_kyu_Primorial_Of_a_Number" />
-      <item itemvalue="Python.practise" />
-      <item itemvalue="Python.6_kyu_Find_X_Ⅱ" />
+      <item itemvalue="Python.6_kyu_Faro_Shuffle_Count" />
+      <item itemvalue="Python.6_kyu_n-th_reversible_prime(unfnished)" />
+      <item itemvalue="Python.practice" />
+      <item itemvalue="Python.copy" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.practise" />
-        <item itemvalue="Python.6_kyu_Find_X_Ⅱ" />
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.copy" />
+        <item itemvalue="Python.6_kyu_n-th_reversible_prime(unfnished)" />
         <item itemvalue="Python.6_kyu_Primorial_Of_a_Number" />
-        <item itemvalue="Python.6_kyu_Two_Sum" />
-        <item itemvalue="Python.5_kyu_Josephus_Survivor" />
+        <item itemvalue="Python.6_kyu_Faro_Shuffle_Count" />
       </list>
     </recent_temporary>
   </component>
@@ -283,14 +287,8 @@
       <workItem from="1567604965655" duration="1519000" />
       <workItem from="1567608113424" duration="1050000" />
       <workItem from="1567661637127" duration="3645000" />
-      <workItem from="1567686859174" duration="8936000" />
-    </task>
-    <task id="LOCAL-00009" summary="continue">
-      <created>1564841469028</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1564841469028</updated>
+      <workItem from="1567686859174" duration="9055000" />
+      <workItem from="1567777100279" duration="5097000" />
     </task>
     <task id="LOCAL-00010" summary="continue">
       <created>1564847051804</created>
@@ -628,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567693003619</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="09/05/2019">
+      <created>1567695969589</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1567695969589</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -722,6 +727,7 @@
     <SUITE FILE_PATH="coverage/codewars$a_practise.coverage" NAME="a_practise Coverage Results" MODIFIED="1565432306648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Find_the_unknown_digit.coverage" NAME="Find the unknown digit Coverage Results" MODIFIED="1566995838511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$5_kyu_Directions_Reduction.coverage" NAME="5_kyu_Directions_Reduction Coverage Results" MODIFIED="1566745030586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$6_kyu_Faro_Shuffle_Count.coverage" NAME="6_kyu_Faro_Shuffle_Count Coverage Results" MODIFIED="1567778588091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Simplifying_multilinear_polynomials.coverage" NAME="Simplifying multilinear polynomials Coverage Results" MODIFIED="1566790797953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Are_they_the_same.coverage" NAME="Are they the same Coverage Results" MODIFIED="1564741281142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$something_new2.coverage" NAME="something_new2 Coverage Results" MODIFIED="1566120533640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -747,6 +753,7 @@
     <SUITE FILE_PATH="coverage/codewars$Maximum_subarray_sum.coverage" NAME="Maximum subarray sum Coverage Results" MODIFIED="1564816390462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Last_digit_of_a_large_number.coverage" NAME="Last digit of a large number Coverage Results" MODIFIED="1564840717188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Moving_Zeros_To_The_End.coverage" NAME="Moving Zeros To The End Coverage Results" MODIFIED="1564818076763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$practice.coverage" NAME="practice Coverage Results" MODIFIED="1567780513138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Valid_Parentheses.coverage" NAME="Valid Parentheses Coverage Results" MODIFIED="1564734166357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,20 +1,33 @@
-def isprime(n):
-	for i in range(3, max(n, int(str(n)[::-1])) // 3 + 1, 2):
-		if n % i == 0:
-			return False
-	return True
+def _odd_iter():
+    n = 1
+    while True:
+        n = n + 2
+        yield n
+
+def _not_divisible(n):
+    return lambda x: x % n > 0
+
+def primes():
+    yield 2
+    it = _odd_iter() # 初始序列
+    while True:
+        n = next(it) # 返回序列的第一个数
+        yield n
+        it = filter(_not_divisible(n), it) # 构造新序列
+
+for n in primes():
+    if n < 1000:
+        print(n)
+    else:
+        break
+
+def reversible_prime(n):
+    print(n)
 
 
-
-
-def reversible_prime():
-
-	pass
-
-
-print(reversible_prime(), 2)
-print(reversible_prime(), 3)
-print(reversible_prime(), 13)
-print(reversible_prime(), 73)
-print(reversible_prime(), 167)
-print(reversible_prime(), 1669)
+print(reversible_prime(0), 2)
+print(reversible_prime(1), 3)
+print(reversible_prime(5), 13)
+print(reversible_prime(10), 73)
+print(reversible_prime(20), 167)
+print(reversible_prime(100), 1669)
