@@ -2,15 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6_kyu_Faro_Shuffle_Count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_kyu_Vasya_and_Stairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Detect_Pangram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Tribonacci_Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Cats_and_shelves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codewars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codewars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Primorial_Of_a_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_kyu_Primorial_Of_a_Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_n-th_reversible_prime(unfnished).py" beforeDir="false" afterPath="$PROJECT_DIR$/6_kyu_n-th_reversible_prime(unfnished).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_kyu_Esolang_Interpreters_4_Boolfuck_Interpreter(failed).py" beforeDir="false" afterPath="$PROJECT_DIR$/3 kyu/3_kyu_Esolang_Interpreters_4_Boolfuck_Interpreter(failed).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_kyu_Sudoku Solver_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/3 kyu/3_kyu_Sudoku Solver_copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_kyu_Sudoku_Solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/3 kyu/3_kyu_Sudoku_Solver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Connect_Four.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Connect_Four.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Count_Squares_In_the_Chess_Board.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Count_Squares_In_the_Chess_Board.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Counting_Change_Combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Counting_Change_Combinations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Esolang_Interpreters_3_Custom_Paintfuck_Interpreter.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Esolang_Interpreters_3_Custom_Paintfuck_Interpreter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Find_the_unknown_digit.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Find_the_unknown_digit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Hamming_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Hamming_Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Next_bigger_number_with_the_same_digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Next_bigger_number_with_the_same_digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Rang_Extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Rang_Extraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Simplifying_multilinear_polynomials(unknown).py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Simplifying_multilinear_polynomials(unknown).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Snail.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Snail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_Sudoku_Solution_Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Sudoku_Solution_Validator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_The_fusc_function_Part_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_The_fusc_function_Part_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_kyu_parseInt_reloaded.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_parseInt_reloaded.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Beeramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Beeramid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Best_ Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Best_ Match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Calculating_with_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Calculating_with_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Directions_Reduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Directions_Reduction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Esolang_Interpreters_2_Custom_Smallfuck_Interpreter.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Esolang_Interpreters_2_Custom_Smallfuck_Interpreter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Find_the_unique_string(unknown).py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Find_the_unique_string(unknown).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Histogram_V1.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Histogram_V1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Josephus_Permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Josephus_Permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Josephus_Survivor.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Josephus_Survivor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Last_digit_of_a_large_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Last_digit_of_a_large_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Lazy_Repeater.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Lazy_Repeater.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Maximum_subarray_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Maximum_subarray_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Moving_Zeros_To_The_End.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Moving_Zeros_To_The_End.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_PaginationHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_PaginationHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Product_of_consecutive_Fib_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Product_of_consecutive_Fib_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_ROT13.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_ROT13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Regex_Password_Validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Regex_Password_Validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Resistor_Color_Codes,_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Resistor_Color_Codes,_Part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Return_substring_instance_count-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Return_substring_instance_count-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Simple_Encryption_#2_Index_Difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Simple_Encryption_#2_Index_Difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Simple_Encryption_#4_Qwerty.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Simple_Encryption_#4_Qwerty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_String_incrementer.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_String_incrementer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Sum_of_Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Sum_of_Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Valid_Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Valid_Parentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_What's_a_Perfect_Power_anyway.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_What's_a_Perfect_Power_anyway.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_kyu_Which_x_for_that_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Which_x_for_that_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Are_they_the_same.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Are_they_the_same.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Bouncing_Balls.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Bouncing_Balls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Build_a_pile_of_Cubes.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Build_a_pile_of_Cubes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Change_your_Points_of_View.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Change_your_Points_of_View.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Complete_the_table_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Complete_the_table_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Consecutive_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Consecutive_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Consonant_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Consonant_value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Convert_string_to_camel_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Convert_string_to_camel_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Create_Phone_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Create_Phone_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Decode_the_Morse_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Decode_the_Morse_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Dubstep.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Dubstep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Duplicate_Encoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Duplicate_Encoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Equal_Sides_Of_An_Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Equal_Sides_Of_An_Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Esolang_Interpreters_1_Introduction_to_Esolangs_and_My_First_Interpreter_MiniStringFuck.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Esolang_Interpreters_1_Introduction_to_Esolangs_and_My_First_Interpreter_MiniStringFuck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Exclamation_marks_series_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Exclamation_marks_series_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Faro_Shuffle_Count.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Faro_Shuffle_Count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Find_The_Parity_Outlier.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Find_The_Parity_Outlier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Find_X.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Find_X.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Find_X_Ⅱ(failed).py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Find_X_Ⅱ(failed).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Find_the_missing_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Find_the_missing_letter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Find_the_odd_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Find_the_odd_int.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Format_words_into_a_sentence.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Format_words_into_a_sentence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Highest_Scoring_Word.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Highest_Scoring_Word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_IP_Validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_IP_Validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Make_the_Deadfish_swim.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Make_the_Deadfish_swim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Meeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Meeting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Mexican_Wave.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Mexican_Wave.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Multiples_of_3_or_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Multiples_of_3_or_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_N-th_Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_N-th_Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Pascal's_Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Pascal's_Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Persistent_Bugger.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Persistent_Bugger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Primorial_Of_a_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Primorial_Of_a_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Reverse_or_rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Reverse_or_rotate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Roman_Numerals_Decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Roman_Numerals_Decoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Roman_Numerals_Encoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Roman_Numerals_Encoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Round_by_0.5_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Round_by_0.5_steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Simple_Encryption#1_Alternating_Split.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Simple_Encryption#1_Alternating_Split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Sort_the_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Sort_the_odd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Split_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Split_Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Stop_gninnipS_My_sdroW.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Stop_gninnipS_My_sdroW.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Sum_of_Digits_or_Digital_Root.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Sum_of_Digits_or_Digital_Root.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_The_Supermarket_Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_The_Supermarket_Queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Title_Case.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Title_Case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Two_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Two_Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Unique_In_Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Unique_In_Order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Vasya-Clerk.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Vasya-Clerk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Vasya_and_Stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Vasya_and_Stairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_What's_in_a_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_What's_in_a_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Who_likes_it.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Who_likes_it.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_Your_order_please.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Your_order_please.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_kyu_n-th_reversible_prime(unfnished).py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_n-th_reversible_prime(unfnished).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Complementary_DNA.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Complementary_DNA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Elapsed_Seconds.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Elapsed_Seconds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Find_the_divisors.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Find_the_divisors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Find_the_next_perfect_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Find_the_next_perfect_square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Flatten.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Flatten.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Float_Precision.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Float_Precision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Growth_of_a_Population.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Growth_of_a_Population.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Largest_5_digit_number_in_a_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Largest_5_digit_number_in_a_series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Refactored_Greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Refactored_Greeting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Resistor_Color_Codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Resistor_Color_Codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Retrieve_array_value_by_index_with_default.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Retrieve_array_value_by_index_with_default.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_kyu_Two_Oldest_Ages.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Two_Oldest_Ages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_kyu_Get_Planet_Name_By_ID.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/8_kyu_Get_Planet_Name_By_ID.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,9 +138,6 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="codewars" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -43,30 +148,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1OrS8W1BDKhetSogvsFSquuRiYR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs.protractor.protractor_package" value="" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wulala/Desktop/Codewars&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <console-settings>
+      <console-settings module-name="codewars" sdk-home="C:\Users\wulala\Desktop\Codewars\venv\Scripts\python.exe">
+        <envs>
+          <env key="PATH" value="C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;F:\Git\cmd;C:\Users\wulala\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\wulala\AppData\Local\Programs\Python\Python310\;C:\Users\wulala\AppData\Local\Microsoft\WindowsApps" />
+        </envs>
         <option name="useSoftWraps" value="true" />
+        <option name="mySdkHome" value="C:\Users\wulala\Desktop\Codewars\venv\Scripts\python.exe" />
+        <option name="myModuleName" value="codewars" />
+        <option name="myEnvs">
+          <map>
+            <entry key="PATH" value="C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;F:\Git\cmd;C:\Users\wulala\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\wulala\AppData\Local\Programs\Python\Python310\;C:\Users\wulala\AppData\Local\Microsoft\WindowsApps" />
+          </map>
+        </option>
       </console-settings>
     </option>
   </component>
@@ -75,22 +190,14 @@
       <recent name="D:\Python\Python_work\codewars" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python\Python_work\codewars" />
+      <recent name="C:\Users\wulala\Desktop\Codewars\8 kyu" />
+      <recent name="C:\Users\wulala\Desktop\Codewars\7 kyu" />
+      <recent name="C:\Users\wulala\Desktop\Codewars\6 kyu" />
+      <recent name="C:\Users\wulala\Desktop\Codewars\5 kyu" />
+      <recent name="C:\Users\wulala\Desktop\Codewars\4 kyu" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.practice">
+  <component name="RunManager" selected="Python.6_kyu_Detect_Pangram">
     <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
       <option name="PORT" value="0" />
       <option name="HOST" value="localhost" />
@@ -103,17 +210,17 @@
       <option name="SUSPEND_AFTER_CONNECT" value="true" />
       <method v="2" />
     </configuration>
-    <configuration name="6_kyu_Faro_Shuffle_Count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6_kyu_Detect_Pangram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 kyu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_kyu_Faro_Shuffle_Count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/6_kyu_Detect_Pangram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,17 +229,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_kyu_Primorial_Of_a_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6_kyu_Tribonacci_Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 kyu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_kyu_Primorial_Of_a_Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 kyu/6_kyu_Tribonacci_Sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_kyu_n-th_reversible_prime(unfnished)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_kyu_Cats_and_shelves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +258,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_kyu_n-th_reversible_prime(unfnished).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wulala\Desktop\Codewars\7 kyu\7_kyu_Cats_and_shelves.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,17 +289,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="D:\Python\Python_work\codewars\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/copy.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wulala\Desktop\Codewars\7 kyu\7_kyu_Cats_and_shelves.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,7 +321,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,22 +331,23 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.6_kyu_Primorial_Of_a_Number" />
-      <item itemvalue="Python.6_kyu_Faro_Shuffle_Count" />
-      <item itemvalue="Python.6_kyu_n-th_reversible_prime(unfnished)" />
+      <item itemvalue="Python.6_kyu_Detect_Pangram" />
+      <item itemvalue="Python.6_kyu_Tribonacci_Sequence" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.7_kyu_Cats_and_shelves" />
       <item itemvalue="Python.practice" />
-      <item itemvalue="Python.copy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6_kyu_Detect_Pangram" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.6_kyu_Tribonacci_Sequence" />
+        <item itemvalue="Python.7_kyu_Cats_and_shelves" />
         <item itemvalue="Python.practice" />
-        <item itemvalue="Python.copy" />
-        <item itemvalue="Python.6_kyu_n-th_reversible_prime(unfnished)" />
-        <item itemvalue="Python.6_kyu_Primorial_Of_a_Number" />
-        <item itemvalue="Python.6_kyu_Faro_Shuffle_Count" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -289,6 +400,15 @@
       <workItem from="1567661637127" duration="3645000" />
       <workItem from="1567686859174" duration="9055000" />
       <workItem from="1567777100279" duration="5097000" />
+      <workItem from="1673429757998" duration="139000" />
+      <workItem from="1673429899387" duration="25000" />
+      <workItem from="1673429933301" duration="26000" />
+      <workItem from="1673429970739" duration="41000" />
+      <workItem from="1673430029725" duration="149000" />
+      <workItem from="1673430191750" duration="727000" />
+      <workItem from="1673430942109" duration="266000" />
+      <workItem from="1673434547876" duration="197000" />
+      <workItem from="1673434750392" duration="4151000" />
     </task>
     <task id="LOCAL-00010" summary="continue">
       <created>1564847051804</created>
@@ -637,7 +757,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -661,9 +781,7 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -702,58 +820,67 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5_kyu_Directions_Reduction.py</url>
+          <url>file://$PROJECT_DIR$/5 kyu/5_kyu_Directions_Reduction.py</url>
           <line>29</line>
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/6_kyu_What's_in_a_name.py</url>
+          <url>file://$PROJECT_DIR$/6 kyu/6_kyu_What's_in_a_name.py</url>
           <line>2</line>
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/4_kyu_Find_the_unknown_digit.py</url>
+          <url>file://$PROJECT_DIR$/4 kyu/4_kyu_Find_the_unknown_digit.py</url>
           <line>5</line>
           <option name="timeStamp" value="106" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/codewars$something_copy.coverage" NAME="something_copy Coverage Results" MODIFIED="1564904167527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1566989421439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$What_s_a_Perfect_Power_anyway.coverage" NAME="What's a Perfect Power anyway Coverage Results" MODIFIED="1566787782254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1567001252066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$a_practise.coverage" NAME="a_practise Coverage Results" MODIFIED="1565432306648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Find_the_unknown_digit.coverage" NAME="Find the unknown digit Coverage Results" MODIFIED="1566995838511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$5_kyu_Directions_Reduction.coverage" NAME="5_kyu_Directions_Reduction Coverage Results" MODIFIED="1566745030586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$6_kyu_Faro_Shuffle_Count.coverage" NAME="6_kyu_Faro_Shuffle_Count Coverage Results" MODIFIED="1567778588091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Simplifying_multilinear_polynomials.coverage" NAME="Simplifying multilinear polynomials Coverage Results" MODIFIED="1566790797953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Are_they_the_same.coverage" NAME="Are they the same Coverage Results" MODIFIED="1564741281142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something_new2.coverage" NAME="something_new2 Coverage Results" MODIFIED="1566120533640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$6_kyu_What_s_in_a_name.coverage" NAME="6_kyu_What's_in_a_name Coverage Results" MODIFIED="1566301781386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Watermelon.coverage" NAME="Watermelon Coverage Results" MODIFIED="1564743883722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$practise.coverage" NAME="practise Coverage Results" MODIFIED="1567695038305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Find_the_next_perfect_square.coverage" NAME="Find the next perfect square Coverage Results" MODIFIED="1564734219024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$6_kyu_String_counting.coverage" NAME="6_kyu_String_counting Coverage Results" MODIFIED="1567503953245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$PaginationHelper.coverage" NAME="PaginationHelper Coverage Results" MODIFIED="1564762074033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Rectangle_into_Squares.coverage" NAME="Rectangle into Squares Coverage Results" MODIFIED="1564757575518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$5_kyu_Josephus_Permutation.coverage" NAME="5_kyu_Josephus_Permutation Coverage Results" MODIFIED="1567688790717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Dubstep.coverage" NAME="Dubstep Coverage Results" MODIFIED="1566745544134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$4_kyu_Find_the_unknown_digit.coverage" NAME="4_kyu_Find_the_unknown_digit Coverage Results" MODIFIED="1567601450041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$6_kyu_Find_X_.coverage" NAME="6_kyu_Find_X_Ⅱ Coverage Results" MODIFIED="1567692143059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$6_kyu_Primorial_Of_a_Number.coverage" NAME="6_kyu_Primorial_Of_a_Number Coverage Results" MODIFIED="1567690416836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$4_kyu_parseInt_reloaded.coverage" NAME="4_kyu_parseInt_reloaded Coverage Results" MODIFIED="1566401002648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$something_practise.coverage" NAME="something_practise Coverage Results" MODIFIED="1564907198968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Connect_Four.coverage" NAME="Connect Four Coverage Results" MODIFIED="1566215061683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Bouncing_Balls.coverage" NAME="Bouncing Balls Coverage Results" MODIFIED="1564750100446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Sudoku_Solution_Validator.coverage" NAME="Sudoku Solution Validator Coverage Results" MODIFIED="1564844259444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Sudoku_Solver.coverage" NAME="Sudoku Solver Coverage Results" MODIFIED="1566984897361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Directions_Reduction.coverage" NAME="Directions Reduction Coverage Results" MODIFIED="1564833364749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Maximum_subarray_sum.coverage" NAME="Maximum subarray sum Coverage Results" MODIFIED="1564816390462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codewars$Last_digit_of_a_large_number.coverage" NAME="Last digit of a large number Coverage Results" MODIFIED="1564840717188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Rectangle_into_Squares.coverage" NAME="Rectangle into Squares Coverage Results" MODIFIED="1564757575518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$6_kyu_Find_X_.coverage" NAME="6_kyu_Find_X_Ⅱ Coverage Results" MODIFIED="1567692143059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something_practise.coverage" NAME="something_practise Coverage Results" MODIFIED="1564907198968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Codewars$6_kyu_Detect_Pangram.coverage" NAME="6_kyu_Detect_Pangram 覆盖结果" MODIFIED="1673438254504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 kyu" />
     <SUITE FILE_PATH="coverage/codewars$Moving_Zeros_To_The_End.coverage" NAME="Moving Zeros To The End Coverage Results" MODIFIED="1564818076763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$practice.coverage" NAME="practice Coverage Results" MODIFIED="1567780513138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Codewars$6_kyu_Tribonacci_Sequence.coverage" NAME="6_kyu_Tribonacci_Sequence 覆盖结果" MODIFIED="1673437067180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 kyu" />
+    <SUITE FILE_PATH="coverage/codewars$Watermelon.coverage" NAME="Watermelon Coverage Results" MODIFIED="1564743883722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Bouncing_Balls.coverage" NAME="Bouncing Balls Coverage Results" MODIFIED="1564750100446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Last_digit_of_a_large_number.coverage" NAME="Last digit of a large number Coverage Results" MODIFIED="1564840717188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Simplifying_multilinear_polynomials.coverage" NAME="Simplifying multilinear polynomials Coverage Results" MODIFIED="1566790797953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$What_s_a_Perfect_Power_anyway.coverage" NAME="What's a Perfect Power anyway Coverage Results" MODIFIED="1566787782254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$6_kyu_What_s_in_a_name.coverage" NAME="6_kyu_What's_in_a_name Coverage Results" MODIFIED="1566301781386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Sudoku_Solution_Validator.coverage" NAME="Sudoku Solution Validator Coverage Results" MODIFIED="1564844259444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Find_the_next_perfect_square.coverage" NAME="Find the next perfect square Coverage Results" MODIFIED="1564734219024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$PaginationHelper.coverage" NAME="PaginationHelper Coverage Results" MODIFIED="1564762074033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$4_kyu_Find_the_unknown_digit.coverage" NAME="4_kyu_Find_the_unknown_digit Coverage Results" MODIFIED="1567601450041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$a_practise.coverage" NAME="a_practise Coverage Results" MODIFIED="1565432306648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$Valid_Parentheses.coverage" NAME="Valid Parentheses Coverage Results" MODIFIED="1564734166357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something_new.coverage" NAME="something_new Coverage Results" MODIFIED="1566989421439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$practise.coverage" NAME="practise Coverage Results" MODIFIED="1567695038305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something.coverage" NAME="something Coverage Results" MODIFIED="1567001252066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$something_new2.coverage" NAME="something_new2 Coverage Results" MODIFIED="1566120533640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$6_kyu_String_counting.coverage" NAME="6_kyu_String_counting Coverage Results" MODIFIED="1567503953245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Find_the_unknown_digit.coverage" NAME="Find the unknown digit Coverage Results" MODIFIED="1566995838511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$6_kyu_Primorial_Of_a_Number.coverage" NAME="6_kyu_Primorial_Of_a_Number Coverage Results" MODIFIED="1567690416836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Maximum_subarray_sum.coverage" NAME="Maximum subarray sum Coverage Results" MODIFIED="1564816390462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$5_kyu_Josephus_Permutation.coverage" NAME="5_kyu_Josephus_Permutation Coverage Results" MODIFIED="1567688790717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Sudoku_Solver.coverage" NAME="Sudoku Solver Coverage Results" MODIFIED="1566984897361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Connect_Four.coverage" NAME="Connect Four Coverage Results" MODIFIED="1566215061683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$5_kyu_Directions_Reduction.coverage" NAME="5_kyu_Directions_Reduction Coverage Results" MODIFIED="1566745030586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$Dubstep.coverage" NAME="Dubstep Coverage Results" MODIFIED="1566745544134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$4_kyu_parseInt_reloaded.coverage" NAME="4_kyu_parseInt_reloaded Coverage Results" MODIFIED="1566401002648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codewars$6_kyu_Faro_Shuffle_Count.coverage" NAME="6_kyu_Faro_Shuffle_Count Coverage Results" MODIFIED="1567778588091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
