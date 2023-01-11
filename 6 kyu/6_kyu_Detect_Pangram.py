@@ -1,10 +1,8 @@
 def is_pangram(s):
-    date = list(set(list(s.lower())))
-    date.sort()
-    if "a" in date and "z" in date and date.index("z") - date.index("a") == 25:
-        return True
+    date = sorted(set(s.lower()))
+    if "a" in date and "z" in date:
+        return date.index("z") - date.index("a") == 25
     return False
-
 
 
 print(is_pangram("1afghijklmnopqrstuvwxyzzzz"))

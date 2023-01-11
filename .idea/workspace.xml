@@ -1,123 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Detect_Pangram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Tribonacci_Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Cats_and_shelves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codewars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codewars.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ab34204e-2168-4f56-a306-c47f8a0ba050" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_kyu_Esolang_Interpreters_4_Boolfuck_Interpreter(failed).py" beforeDir="false" afterPath="$PROJECT_DIR$/3 kyu/3_kyu_Esolang_Interpreters_4_Boolfuck_Interpreter(failed).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_kyu_Sudoku Solver_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/3 kyu/3_kyu_Sudoku Solver_copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_kyu_Sudoku_Solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/3 kyu/3_kyu_Sudoku_Solver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Connect_Four.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Connect_Four.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Count_Squares_In_the_Chess_Board.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Count_Squares_In_the_Chess_Board.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Counting_Change_Combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Counting_Change_Combinations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Esolang_Interpreters_3_Custom_Paintfuck_Interpreter.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Esolang_Interpreters_3_Custom_Paintfuck_Interpreter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Find_the_unknown_digit.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Find_the_unknown_digit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Hamming_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Hamming_Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Next_bigger_number_with_the_same_digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Next_bigger_number_with_the_same_digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Rang_Extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Rang_Extraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Simplifying_multilinear_polynomials(unknown).py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Simplifying_multilinear_polynomials(unknown).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Snail.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Snail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_Sudoku_Solution_Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_Sudoku_Solution_Validator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_The_fusc_function_Part_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_The_fusc_function_Part_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_kyu_parseInt_reloaded.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/4_kyu_parseInt_reloaded.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Beeramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Beeramid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Best_ Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Best_ Match.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Calculating_with_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Calculating_with_Functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Directions_Reduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Directions_Reduction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Esolang_Interpreters_2_Custom_Smallfuck_Interpreter.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Esolang_Interpreters_2_Custom_Smallfuck_Interpreter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Find_the_unique_string(unknown).py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Find_the_unique_string(unknown).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Histogram_V1.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Histogram_V1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Josephus_Permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Josephus_Permutation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Josephus_Survivor.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Josephus_Survivor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Last_digit_of_a_large_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Last_digit_of_a_large_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Lazy_Repeater.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Lazy_Repeater.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Maximum_subarray_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Maximum_subarray_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Moving_Zeros_To_The_End.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Moving_Zeros_To_The_End.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_PaginationHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_PaginationHelper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Product_of_consecutive_Fib_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Product_of_consecutive_Fib_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_ROT13.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_ROT13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Regex_Password_Validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Regex_Password_Validation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Resistor_Color_Codes,_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Resistor_Color_Codes,_Part2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Return_substring_instance_count-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Return_substring_instance_count-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Simple_Encryption_#2_Index_Difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Simple_Encryption_#2_Index_Difference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Simple_Encryption_#4_Qwerty.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Simple_Encryption_#4_Qwerty.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_String_incrementer.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_String_incrementer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Sum_of_Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Sum_of_Pairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Valid_Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Valid_Parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_What's_a_Perfect_Power_anyway.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_What's_a_Perfect_Power_anyway.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_kyu_Which_x_for_that_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/5_kyu_Which_x_for_that_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Are_they_the_same.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Are_they_the_same.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Bouncing_Balls.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Bouncing_Balls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Build_a_pile_of_Cubes.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Build_a_pile_of_Cubes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Change_your_Points_of_View.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Change_your_Points_of_View.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Complete_the_table_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Complete_the_table_pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Consecutive_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Consecutive_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Consonant_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Consonant_value.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Convert_string_to_camel_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Convert_string_to_camel_case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Create_Phone_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Create_Phone_Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Decode_the_Morse_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Decode_the_Morse_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Dubstep.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Dubstep.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Duplicate_Encoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Duplicate_Encoder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Equal_Sides_Of_An_Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Equal_Sides_Of_An_Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Esolang_Interpreters_1_Introduction_to_Esolangs_and_My_First_Interpreter_MiniStringFuck.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Esolang_Interpreters_1_Introduction_to_Esolangs_and_My_First_Interpreter_MiniStringFuck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Exclamation_marks_series_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Exclamation_marks_series_15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Faro_Shuffle_Count.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Faro_Shuffle_Count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Find_The_Parity_Outlier.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Find_The_Parity_Outlier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Find_X.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Find_X.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Find_X_Ⅱ(failed).py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Find_X_Ⅱ(failed).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Find_the_missing_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Find_the_missing_letter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Find_the_odd_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Find_the_odd_int.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Format_words_into_a_sentence.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Format_words_into_a_sentence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Highest_Scoring_Word.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Highest_Scoring_Word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_IP_Validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_IP_Validation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Make_the_Deadfish_swim.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Make_the_Deadfish_swim.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Meeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Meeting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Mexican_Wave.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Mexican_Wave.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Multiples_of_3_or_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Multiples_of_3_or_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_N-th_Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_N-th_Fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Pascal's_Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Pascal's_Triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Persistent_Bugger.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Persistent_Bugger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Primorial_Of_a_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Primorial_Of_a_Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Reverse_or_rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Reverse_or_rotate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Roman_Numerals_Decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Roman_Numerals_Decoder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Roman_Numerals_Encoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Roman_Numerals_Encoder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Round_by_0.5_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Round_by_0.5_steps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Simple_Encryption#1_Alternating_Split.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Simple_Encryption#1_Alternating_Split.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Sort_the_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Sort_the_odd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Split_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Split_Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Stop_gninnipS_My_sdroW.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Stop_gninnipS_My_sdroW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Sum_of_Digits_or_Digital_Root.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Sum_of_Digits_or_Digital_Root.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_The_Supermarket_Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_The_Supermarket_Queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Title_Case.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Title_Case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Two_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Two_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Unique_In_Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Unique_In_Order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Vasya-Clerk.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Vasya-Clerk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Vasya_and_Stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Vasya_and_Stairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_What's_in_a_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_What's_in_a_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Who_likes_it.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Who_likes_it.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_Your_order_please.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Your_order_please.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_kyu_n-th_reversible_prime(unfnished).py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_n-th_reversible_prime(unfnished).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Complementary_DNA.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Complementary_DNA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Elapsed_Seconds.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Elapsed_Seconds.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Find_the_divisors.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Find_the_divisors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Find_the_next_perfect_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Find_the_next_perfect_square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Flatten.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Flatten.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Float_Precision.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Float_Precision.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Growth_of_a_Population.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Growth_of_a_Population.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Largest_5_digit_number_in_a_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Largest_5_digit_number_in_a_series.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Refactored_Greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Refactored_Greeting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Resistor_Color_Codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Resistor_Color_Codes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Retrieve_array_value_by_index_with_default.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Retrieve_array_value_by_index_with_default.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_kyu_Two_Oldest_Ages.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu/7_kyu_Two_Oldest_Ages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_kyu_Get_Planet_Name_By_ID.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/8_kyu_Get_Planet_Name_By_ID.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/copy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6 kyu/6_kyu_Detect_Pangram.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/6_kyu_Detect_Pangram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +84,7 @@
       <recent name="C:\Users\wulala\Desktop\Codewars\4 kyu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6_kyu_Detect_Pangram">
+  <component name="RunManager" selected="Python.test">
     <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
       <option name="PORT" value="0" />
       <option name="HOST" value="localhost" />
@@ -339,8 +226,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6_kyu_Detect_Pangram" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.6_kyu_Detect_Pangram" />
         <item itemvalue="Python.6_kyu_Tribonacci_Sequence" />
         <item itemvalue="Python.7_kyu_Cats_and_shelves" />
         <item itemvalue="Python.practice" />
@@ -408,14 +295,7 @@
       <workItem from="1673430191750" duration="727000" />
       <workItem from="1673430942109" duration="266000" />
       <workItem from="1673434547876" duration="197000" />
-      <workItem from="1673434750392" duration="4151000" />
-    </task>
-    <task id="LOCAL-00010" summary="continue">
-      <created>1564847051804</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1564847051804</updated>
+      <workItem from="1673434750392" duration="4823000" />
     </task>
     <task id="LOCAL-00011" summary="continue">
       <created>1564848476795</created>
@@ -753,7 +633,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567695969589</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Default Changelist">
+      <created>1673438958097</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1673438958098</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -789,7 +676,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="hangming 注意算法" />
     <MESSAGE value="update" />
     <MESSAGE value="Merge branch 'master' of https://github.com/lichkingwulaa/Codewars&#10;&#10;# Conflicts:&#10;#&#9;a_practise.py" />
     <MESSAGE value="What's a Perfect Power anyway?" />
@@ -814,7 +700,8 @@
     <MESSAGE value="08/28/2019" />
     <MESSAGE value="09/03/2019" />
     <MESSAGE value="09/05/2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="09/05/2019" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
